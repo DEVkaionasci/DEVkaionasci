@@ -63,15 +63,14 @@ Meu primeiro projeto independente em Python, desenvolvido para praticar Programa
 
 ## 📈 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEVkaionasci&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DEVkaionasci&layout=compact&theme=github_dark&hide_border=true)
+Confira meus projetos e minha evolução:
+[ github.com/DEVkaionasci ](https://github.com/DEVkaionasci)
 
 ---
 
 ## 📫 Contato
 
-- GitHub: [@DEVkaionasci](https://github.com/DEVkaionasci)
+- LinkedIn: [@DEVkaionasci]([https://github.com/DEVkaionasci](https://www.linkedin.com/in/devkaio-nascimento/))
 
 ---
 
