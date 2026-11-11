@@ -59,21 +59,6 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DEVkaionasci&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVkaionasci&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
-
-<img src="https://streak-stats.demolab.com?user=DEVkaionasci&theme=tokyonight&hide_border=true" alt="streak" />
-
-</div>
-
-### 📈 Atividade de commits
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DEVkaionasci&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%" />
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=DEVkaionasci&theme=tokyonight&hide_border=true" alt="streak" />
 
 </div>
@@ -103,3 +88,13 @@ Meu primeiro projeto independente em Python, feito para praticar Programação O
 <a href="https://github.com/DEVkaionasci/Finance_CLI">
   <img src="https://img.shields.io/badge/Ver_repositório-POOBank-3776AB?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório do POOBank" />
 </a>
+
+---
+
+<div align="center">
+
+*"Building, learning and improving one project at a time."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" />
+
+</div>
