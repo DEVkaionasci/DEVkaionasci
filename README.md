@@ -63,7 +63,7 @@ Meu primeiro projeto independente em Python, desenvolvido para praticar Programa
 
 ## 📫 Contato
 
-- LinkedIn: [@DEVkaionasci]([https://github.com/DEVkaionasci](https://www.linkedin.com/in/devkaio-nascimento/)
+- LinkedIn: [@DEVkaionasci](https://www.linkedin.com/in/devkaio-nascimento/)
 
 ---
 
